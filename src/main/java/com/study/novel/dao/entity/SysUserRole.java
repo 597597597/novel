@@ -12,7 +12,7 @@ import java.time.LocalDateTime;
  * </p>
  *
  * @author ${author}
- * @date 2023/12/21
+ * @date 2023/12/23
  */
 @TableName("sys_user_role")
 public class SysUserRole implements Serializable {

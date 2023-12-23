@@ -12,7 +12,7 @@ import java.time.LocalDateTime;
  * </p>
  *
  * @author ${author}
- * @date 2023/12/21
+ * @date 2023/12/23
  */
 @TableName("user_pay_log")
 public class UserPayLog implements Serializable {

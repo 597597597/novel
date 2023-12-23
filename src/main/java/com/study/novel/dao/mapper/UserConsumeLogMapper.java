@@ -9,7 +9,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * </p>
  *
  * @author ${author}
- * @date 2023/12/21
+ * @date 2023/12/23
  */
 public interface UserConsumeLogMapper extends BaseMapper<UserConsumeLog> {
 
